@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Variabel lista"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Den här webbläsaren verkar inte ha stöd för Server Sent Events.",
     "check_console_details": "Kontrollera konsolloggen för mer information.",

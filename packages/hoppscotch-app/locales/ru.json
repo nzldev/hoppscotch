@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Список переменных"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Похоже, в этом браузере нет поддержки событий, отправленных сервером.",
     "check_console_details": "Подробности смотрите в журнале консоли.",

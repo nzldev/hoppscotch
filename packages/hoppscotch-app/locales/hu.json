@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Változólista"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Úgy tűnik, hogy ez a böngésző nem támogatja a kiszolgáló által küldött eseményeket.",
     "check_console_details": "Nézze meg a konzolnaplót a részletekért.",

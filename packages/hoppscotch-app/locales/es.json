@@ -176,6 +176,10 @@
     "updated": "Actualización del entorno",
     "variable_list": "Lista de variables"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Este navegador no parece ser compatible con los eventos enviados por el servidor.",
     "check_console_details": "Consulta el registro de la consola para obtener más detalles.",

@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Liste des variables"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Ce navigateur ne semble pas prendre en charge les événements envoyés par le serveur.",
     "check_console_details": "Consultez le journal de la console pour plus de détails.",

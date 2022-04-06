@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Veranderlike lys"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Dit lyk nie asof hierdie blaaier ondersteuning vir bedieners gestuurde geleenthede het nie.",
     "check_console_details": "Kyk na die konsole -log vir meer inligting.",

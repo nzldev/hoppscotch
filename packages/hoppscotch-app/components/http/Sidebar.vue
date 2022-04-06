@@ -17,13 +17,20 @@
     <SmartTab :id="'env'" icon="layers" :label="`${$t('environment.title')}`">
       <Environments />
     </SmartTab>
+    <SmartTab
+      :id="'codesnippet'"
+      icon="code-2"
+      :label="`${$t('code_snippet.title')}`"
+    >
+      <Codesnippets />
+    </SmartTab>
   </SmartTabs>
 </template>
 
 <script setup lang="ts">
 import { ref } from "@nuxtjs/composition-api"
 
-type RequestOptionTabs = "history" | "collections" | "env"
+type RequestOptionTabs = "history" | "collections" | "env" | "codesnippet"
 
 const selectedNavigationTab = ref<RequestOptionTabs>("history")
 </script>

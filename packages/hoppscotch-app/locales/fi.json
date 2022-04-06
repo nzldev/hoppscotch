@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Muuttujien luettelo"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Tämä selain ei näytä tukevan palvelimen lähettämiä tapahtumia.",
     "check_console_details": "Katso lisätietoja konsolilokista.",

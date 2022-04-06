@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Листа променљивих"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Изгледа да овај прегледач нема подршку за Послане догађаје са сервера.",
     "check_console_details": "Детаље потражите у дневнику конзоле.",

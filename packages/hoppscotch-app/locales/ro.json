@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Lista variabilelor"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Acest browser pare să nu aibă suport pentru Server Sent Events.",
     "check_console_details": "Verificați jurnalul consolei pentru detalii.",

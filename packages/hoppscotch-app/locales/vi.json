@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Danh sách biến"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Trình duyệt này dường như không có hỗ trợ Sự kiện do Máy chủ gửi.",
     "check_console_details": "Kiểm tra nhật ký bảng điều khiển để biết chi tiết.",

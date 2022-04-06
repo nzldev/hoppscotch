@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Seznam proměnných"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Zdá se, že tento prohlížeč nemá podporu událostí odeslaných serverem.",
     "check_console_details": "Podrobnosti najdete v protokolu konzoly.",

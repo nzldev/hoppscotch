@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Llista de variables"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Sembla que aquest navegador no és compatible amb els esdeveniments enviats per servidor.",
     "check_console_details": "Consulteu el registre de la consola per obtenir més informació.",

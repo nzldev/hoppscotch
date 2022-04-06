@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Lista zmiennych"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Wygląda na to, że ta przeglądarka nie obsługuje zdarzeń wysłanych przez serwer.",
     "check_console_details": "Sprawdź dziennik konsoli, aby uzyskać szczegółowe informacje.",

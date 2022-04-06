@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Λίστα μεταβλητών"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Αυτό το πρόγραμμα περιήγησης δεν φαίνεται να υποστηρίζει διακομιστές που έχουν σταλεί συμβάντα.",
     "check_console_details": "Ελέγξτε το αρχείο καταγραφής της κονσόλας για λεπτομέρειες.",

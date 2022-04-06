@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "变量列表"
   },
+  "code_snippet": {
+   
+    "title": "代码片段"
+  },
   "error": {
     "browser_support_sse": "该浏览器似乎不支持 SSE。",
     "check_console_details": "检查控制台日志以获悉详情",

@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Variabele lijst"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Deze browser lijkt geen ondersteuning te hebben voor door de server verzonden gebeurtenissen.",
     "check_console_details": "Controleer het consolelogboek voor details.",

@@ -176,6 +176,10 @@
     "updated": "環境変数を更新しました",
     "variable_list": "環境変数リスト"
   },
+  "code_snippet": {
+   
+    "title": "代码片段"
+  },
   "error": {
     "browser_support_sse": "このブラウザはServer-Sent Eventsをサポートしていないようです。",
     "check_console_details": "詳細については、コンソールログを確認してください。",

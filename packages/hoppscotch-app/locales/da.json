@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Variabel liste"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Det ser ikke ud til, at denne browser understøtter Server Sent Events.",
     "check_console_details": "Tjek konsollog for at få flere oplysninger.",

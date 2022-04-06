@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "רשימת משתנים"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "נראה שלדפדפן זה אין תמיכה באירועי שרת נשלח.",
     "check_console_details": "בדוק את יומן המסוף לפרטים.",

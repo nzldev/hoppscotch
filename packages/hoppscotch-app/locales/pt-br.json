@@ -176,6 +176,10 @@
     "updated": "Atualizacao de ambientes",
     "variable_list": "Lista de Variáveis"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Este navegador não parece ter suporte para eventos enviados pelo servidor.",
     "check_console_details": "Verifique o log do console para obter detalhes.",

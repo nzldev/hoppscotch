@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Değişken Listesi"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Bu tarayıcıda Sunucu Gönderilen Olaylar desteği yok gibi görünüyor.",
     "check_console_details": "Ayrıntılar için konsol günlüğünü kontrol edin.",

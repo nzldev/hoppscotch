@@ -182,6 +182,12 @@
     "updated": "Environment updation",
     "variable_list": "Variable List"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet",
+    "setting": "Setting",
+    "select": "Select code prettify"
+  },
   "error": {
     "browser_support_sse": "This browser doesn't seems to have Server Sent Events support.",
     "check_console_details": "Check console log for details.",

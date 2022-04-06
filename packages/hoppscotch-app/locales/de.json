@@ -176,6 +176,10 @@
     "updated": "Umgebung aktualisiert",
     "variable_list": "Variablenliste"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Dieser Browser scheint keine Unterstützung für die vom Server gesendete Ereignisse zu haben.",
     "check_console_details": "Einzelheiten finden Sie in der Browser-Konsole.",

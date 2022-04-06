@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Elenco variabili"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Questo browser non sembra supportare gli eventi inviati dal server (Server Sent Events).",
     "check_console_details": "Controlla il log della console per i dettagli.",

@@ -176,6 +176,10 @@
     "updated": "Environment updation",
     "variable_list": "Список змінних"
   },
+  "code_snippet": {
+   
+    "title": "Code snippet"
+  },
   "error": {
     "browser_support_sse": "Схоже, цей браузер не підтримує події, надіслані сервером.",
     "check_console_details": "Детальніше перевірте журнал консолі.",
